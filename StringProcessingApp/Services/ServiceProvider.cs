@@ -1,5 +1,4 @@
-﻿
-using StringProcessingApp.Database;
+﻿using StringProcessingApp.Database;
 using StringProcessingApp.Interfaces;
 using StringProcessingApp.Repositories;
 

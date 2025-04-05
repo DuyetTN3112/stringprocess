@@ -11,3 +11,8 @@ obj/
 
 # Ignore file history
 *.vshistory/
+
+# Ignore environment files
+.env
+*.env
+App.config

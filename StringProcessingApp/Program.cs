@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Windows.Forms;
 using StringProcessingApp.WinFormsUI;
 
@@ -12,11 +13,12 @@ namespace StringProcessingApp
         [STAThread]
         static void Main()
         {
+
             try
             {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
-                Application.Run(new LoginForm());  
+                Application.Run(new LoginForm());
             }
             catch (Exception ex)
             {
