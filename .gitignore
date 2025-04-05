@@ -16,5 +16,5 @@ obj/
 .env
 *.env
 App.config
-# Ignore App.config
-StringProcessingApp/StringProcessingApp/App.config
+StringProcessingApp/App.config
+**/App.config
